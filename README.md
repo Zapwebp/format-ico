@@ -1,6 +1,7 @@
 # @zapwebp/format-ico
 
 <div align="center">
+  <img src="zapwebp-ico.svg" alt="Zapwebp ICO" width="120" height="120" />
   <h3>High-Resolution ICO Plugin & Favicon Generator for Zapwebp</h3>
   <p>Read, parse, and write multi-size ICO/CUR containers with 100% alpha preservation and complete web favicon suites.</p>
 </div>
